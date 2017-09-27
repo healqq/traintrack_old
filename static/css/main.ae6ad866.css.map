@@ -1,0 +1,1 @@
+{"version":3,"sources":["exercise-types\\exercise\\ExerciseType.css"],"names":[],"mappings":"AAAA,UACE,eAAiB","file":"static/css/main.ae6ad866.css","sourcesContent":[".exercise {\n  padding-top: 8px;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/exercise-types/exercise/ExerciseType.css"],"sourceRoot":""}
